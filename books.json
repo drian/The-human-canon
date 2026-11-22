@@ -3,18 +3,18 @@
     "id": 1,
     "title": "The Odyssey",
     "author": "Homer",
-    "year": "ca. 700 f.Kr.",
-    "category": "Litteratur",
-    "description": "Eventyr, identitet og hjemlengsel.",
+    "year": "ca. 700 BCE",
+    "category": "Literature",
+    "description": "A veteran's perilous journey home explores identity, loyalty and longing.",
     "edition": "Emily Wilson (2017)"
   },
   {
     "id": 2,
     "title": "The Iliad",
     "author": "Homer",
-    "year": "ca. 750 f.Kr.",
-    "category": "Litteratur",
-    "description": "Krig, ære og dødelighet.",
+    "year": "ca. 750 BCE",
+    "category": "Literature",
+    "description": "A foundational epic about anger, honor, war and mortality.",
     "edition": "Emily Wilson (2023)"
   },
   {
@@ -22,8 +22,8 @@
     "title": "Meditations",
     "author": "Marcus Aurelius",
     "year": "ca. 170",
-    "category": "Filosofi",
-    "description": "Stoisk refleksjon om et godt liv.",
+    "category": "Philosophy",
+    "description": "Personal reflections on Stoic ethics and living well.",
     "edition": "Gregory Hays"
   },
   {
@@ -31,8 +31,8 @@
     "title": "The Prince",
     "author": "Niccolò Machiavelli",
     "year": "1532",
-    "category": "Samfunn",
-    "description": "Maktens praktiske mekanismer.",
+    "category": "Politics & society",
+    "description": "A pragmatic study of political power and leadership.",
     "edition": ""
   },
   {
@@ -40,8 +40,8 @@
     "title": "The Stranger",
     "author": "Albert Camus",
     "year": "1942",
-    "category": "Romaner",
-    "description": "Fremmedgjøring og absurditet.",
+    "category": "Fiction",
+    "description": "A novel about alienation and the absurd.",
     "edition": ""
   },
   {
@@ -49,8 +49,8 @@
     "title": "Animal Farm",
     "author": "George Orwell",
     "year": "1945",
-    "category": "Romaner",
-    "description": "Makt og revolusjon.",
+    "category": "Fiction",
+    "description": "A satirical fable about revolution and authoritarian power.",
     "edition": ""
   },
   {
@@ -58,8 +58,8 @@
     "title": "1984",
     "author": "George Orwell",
     "year": "1949",
-    "category": "Romaner",
-    "description": "Overvåkning og kontroll.",
+    "category": "Fiction",
+    "description": "A dystopian novel about surveillance, language and control.",
     "edition": ""
   },
   {
@@ -67,35 +67,35 @@
     "title": "Candide",
     "author": "Voltaire",
     "year": "1759",
-    "category": "Romaner",
-    "description": "Satire over filosofisk optimisme.",
+    "category": "Fiction",
+    "description": "A biting satire of philosophical optimism.",
     "edition": ""
   },
   {
     "id": 9,
     "title": "Epic of Gilgamesh",
     "author": "Unknown",
-    "year": "ca. 1200 f.Kr.",
-    "category": "Litteratur",
-    "description": "Vennskap og dødelighet.",
+    "year": "ca. 1200 BCE",
+    "category": "Literature",
+    "description": "An ancient epic about friendship, kingship and mortality.",
     "edition": "Andrew George"
   },
   {
     "id": 10,
     "title": "The Art of War",
     "author": "Sun Tzu",
-    "year": "ca. 500 f.Kr.",
-    "category": "Samfunn",
-    "description": "Strategi og konflikt.",
+    "year": "ca. 500 BCE",
+    "category": "Politics & society",
+    "description": "An influential treatise on strategy and conflict.",
     "edition": ""
   },
   {
     "id": 11,
     "title": "Tao Te Ching",
     "author": "Laozi",
-    "year": "ca. 400 f.Kr.",
-    "category": "Filosofi",
-    "description": "Enkelhet og naturlighet.",
+    "year": "ca. 400 BCE",
+    "category": "Philosophy",
+    "description": "Poetic reflections on simplicity, nature and non-forcing.",
     "edition": ""
   },
   {
@@ -103,8 +103,8 @@
     "title": "Man's Search for Meaning",
     "author": "Viktor Frankl",
     "year": "1946",
-    "category": "Romaner",
-    "description": "Mening under ekstreme forhold.",
+    "category": "Philosophy",
+    "description": "A psychiatrist's account of suffering and the search for meaning.",
     "edition": ""
   },
   {
@@ -112,8 +112,8 @@
     "title": "On Liberty",
     "author": "John Stuart Mill",
     "year": "1859",
-    "category": "Samfunn",
-    "description": "Individuell frihet og skadeprinsippet.",
+    "category": "Politics & society",
+    "description": "A defense of individual liberty and the harm principle.",
     "edition": ""
   },
   {
@@ -121,8 +121,8 @@
     "title": "Brave New World",
     "author": "Aldous Huxley",
     "year": "1932",
-    "category": "Romaner",
-    "description": "Kontroll gjennom komfort.",
+    "category": "Fiction",
+    "description": "A dystopia about social control through pleasure and conditioning.",
     "edition": ""
   },
   {
@@ -130,8 +130,8 @@
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
     "year": "1890",
-    "category": "Romaner",
-    "description": "Skjønnhet og moral.",
+    "category": "Fiction",
+    "description": "A novel about beauty, vanity and moral corruption.",
     "edition": ""
   },
   {
@@ -139,8 +139,8 @@
     "title": "Frankenstein",
     "author": "Mary Shelley",
     "year": "1818",
-    "category": "Litteratur",
-    "description": "Skaperansvar og ensomhet.",
+    "category": "Literature",
+    "description": "A novel about creation, responsibility and isolation.",
     "edition": ""
   },
   {
@@ -148,8 +148,8 @@
     "title": "Notes from Underground",
     "author": "Fyodor Dostoevsky",
     "year": "1864",
-    "category": "Romaner",
-    "description": "Selvbedrag og irrasjonalitet.",
+    "category": "Fiction",
+    "description": "A short novel examining resentment, self-deception and irrationality.",
     "edition": ""
   },
   {
@@ -157,8 +157,8 @@
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "year": "1866",
-    "category": "Romaner",
-    "description": "Skyld og moralsk ansvar.",
+    "category": "Fiction",
+    "description": "A psychological novel about guilt and moral responsibility.",
     "edition": ""
   },
   {
@@ -166,26 +166,26 @@
     "title": "The Myth of Sisyphus",
     "author": "Albert Camus",
     "year": "1942",
-    "category": "Filosofi",
-    "description": "Det absurde og mening.",
+    "category": "Philosophy",
+    "description": "An essay on confronting absurdity and finding reasons to live.",
     "edition": ""
   },
   {
     "id": 20,
     "title": "The Republic",
     "author": "Plato",
-    "year": "ca. 375 f.Kr.",
-    "category": "Filosofi",
-    "description": "Rettferdighet og staten.",
+    "year": "ca. 375 BCE",
+    "category": "Philosophy",
+    "description": "A dialogue exploring justice, education and the ideal state.",
     "edition": ""
   },
   {
     "id": 21,
     "title": "Nicomachean Ethics",
     "author": "Aristotle",
-    "year": "ca. 350 f.Kr.",
-    "category": "Filosofi",
-    "description": "Dyd og menneskelig blomstring.",
+    "year": "ca. 350 BCE",
+    "category": "Philosophy",
+    "description": "An inquiry into virtue and human flourishing.",
     "edition": ""
   },
   {
@@ -193,8 +193,8 @@
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
     "year": "1886",
-    "category": "Filosofi",
-    "description": "Kritikk av etablerte moralske sannheter.",
+    "category": "Philosophy",
+    "description": "A critique of inherited moral and philosophical assumptions.",
     "edition": ""
   },
   {
@@ -202,8 +202,8 @@
     "title": "On the Genealogy of Morality",
     "author": "Friedrich Nietzsche",
     "year": "1887",
-    "category": "Filosofi",
-    "description": "Moralens historiske utvikling.",
+    "category": "Philosophy",
+    "description": "An investigation into the historical origins of moral values.",
     "edition": ""
   },
   {
@@ -211,8 +211,8 @@
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
     "year": "1883–1885",
-    "category": "Filosofi",
-    "description": "Selvoverskridelse og verdier.",
+    "category": "Philosophy",
+    "description": "A poetic philosophical narrative about self-overcoming and values.",
     "edition": ""
   },
   {
@@ -220,17 +220,17 @@
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoevsky",
     "year": "1880",
-    "category": "Romaner",
-    "description": "Tro, frihet og ansvar.",
+    "category": "Fiction",
+    "description": "A novel exploring faith, freedom, evil and responsibility.",
     "edition": ""
   },
   {
     "id": 26,
     "title": "The Aeneid",
     "author": "Virgil",
-    "year": "19 f.Kr.",
-    "category": "Litteratur",
-    "description": "Plikt og Romas mytiske opphav.",
+    "year": "19 BCE",
+    "category": "Literature",
+    "description": "An epic about duty and the mythical origins of Rome.",
     "edition": ""
   },
   {
@@ -238,8 +238,8 @@
     "title": "Hamlet",
     "author": "William Shakespeare",
     "year": "ca. 1600",
-    "category": "Litteratur",
-    "description": "Tvil og hevn.",
+    "category": "Literature",
+    "description": "A tragedy exploring doubt, revenge and mortality.",
     "edition": ""
   },
   {
@@ -247,8 +247,8 @@
     "title": "The Divine Comedy",
     "author": "Dante Alighieri",
     "year": "1321",
-    "category": "Litteratur",
-    "description": "Moral og middelalderens kosmologi.",
+    "category": "Literature",
+    "description": "A poetic journey through medieval moral and religious cosmology.",
     "edition": ""
   },
   {
@@ -256,8 +256,8 @@
     "title": "Paradise Lost",
     "author": "John Milton",
     "year": "1667",
-    "category": "Litteratur",
-    "description": "Fri vilje og opprør.",
+    "category": "Literature",
+    "description": "An epic poem about rebellion, temptation and free will.",
     "edition": ""
   },
   {
@@ -265,8 +265,8 @@
     "title": "Don Quixote",
     "author": "Miguel de Cervantes",
     "year": "1605–1615",
-    "category": "Litteratur",
-    "description": "Idealer og virkelighet.",
+    "category": "Literature",
+    "description": "A comic novel about idealism and reality.",
     "edition": ""
   },
   {
@@ -274,8 +274,8 @@
     "title": "The Count of Monte Cristo",
     "author": "Alexandre Dumas",
     "year": "1844–1846",
-    "category": "Litteratur",
-    "description": "Hevn og rettferdighet.",
+    "category": "Literature",
+    "description": "An adventure novel about betrayal, revenge and justice.",
     "edition": ""
   },
   {
@@ -283,8 +283,8 @@
     "title": "The Trial",
     "author": "Franz Kafka",
     "year": "1925",
-    "category": "Romaner",
-    "description": "Byråkrati og maktesløshet.",
+    "category": "Fiction",
+    "description": "A novel about opaque bureaucracy and helplessness.",
     "edition": ""
   },
   {
@@ -292,8 +292,8 @@
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "year": "1869",
-    "category": "Litteratur",
-    "description": "Historie og menneskelig handlekraft.",
+    "category": "Literature",
+    "description": "A sweeping novel about history, war and individual agency.",
     "edition": ""
   },
   {
@@ -301,8 +301,8 @@
     "title": "Faust",
     "author": "Johann Wolfgang von Goethe",
     "year": "1808–1832",
-    "category": "Litteratur",
-    "description": "Kunnskap og ambisjon.",
+    "category": "Literature",
+    "description": "A dramatic poem about ambition, knowledge and desire.",
     "edition": ""
   },
   {
@@ -310,8 +310,8 @@
     "title": "Meditations on First Philosophy",
     "author": "René Descartes",
     "year": "1641",
-    "category": "Vitenskap",
-    "description": "Tvil og sikker kunnskap.",
+    "category": "Science & knowledge",
+    "description": "A foundational inquiry into doubt and certain knowledge.",
     "edition": ""
   },
   {
@@ -319,8 +319,8 @@
     "title": "An Enquiry Concerning Human Understanding",
     "author": "David Hume",
     "year": "1748",
-    "category": "Vitenskap",
-    "description": "Erfaring og årsakssammenheng.",
+    "category": "Science & knowledge",
+    "description": "An examination of experience, causation and the limits of reason.",
     "edition": ""
   },
   {
@@ -328,8 +328,8 @@
     "title": "The Social Contract",
     "author": "Jean-Jacques Rousseau",
     "year": "1762",
-    "category": "Samfunn",
-    "description": "Legitim politisk autoritet.",
+    "category": "Politics & society",
+    "description": "A theory of legitimate political authority and collective freedom.",
     "edition": ""
   },
   {
@@ -337,8 +337,8 @@
     "title": "Leviathan",
     "author": "Thomas Hobbes",
     "year": "1651",
-    "category": "Samfunn",
-    "description": "Statens opphav og sikkerhet.",
+    "category": "Politics & society",
+    "description": "A foundational account of the state, security and political obligation.",
     "edition": ""
   },
   {
@@ -346,8 +346,8 @@
     "title": "The Communist Manifesto",
     "author": "Karl Marx and Friedrich Engels",
     "year": "1848",
-    "category": "Samfunn",
-    "description": "Klassekamp og kapitalisme.",
+    "category": "Politics & society",
+    "description": "An influential political pamphlet on class struggle and capitalism.",
     "edition": ""
   },
   {
@@ -355,8 +355,8 @@
     "title": "The Wealth of Nations",
     "author": "Adam Smith",
     "year": "1776",
-    "category": "Samfunn",
-    "description": "Markeder og arbeidsdeling.",
+    "category": "Politics & society",
+    "description": "A foundational study of markets and the division of labor.",
     "edition": ""
   },
   {
@@ -364,8 +364,8 @@
     "title": "On the Origin of Species",
     "author": "Charles Darwin",
     "year": "1859",
-    "category": "Vitenskap",
-    "description": "Evolusjon gjennom naturlig seleksjon.",
+    "category": "Science & knowledge",
+    "description": "The landmark argument for evolution through natural selection.",
     "edition": ""
   },
   {
@@ -373,8 +373,8 @@
     "title": "The Structure of Scientific Revolutions",
     "author": "Thomas Kuhn",
     "year": "1962",
-    "category": "Vitenskap",
-    "description": "Paradigmer og vitenskapelige endringer.",
+    "category": "Science & knowledge",
+    "description": "An influential account of paradigms and scientific change.",
     "edition": ""
   },
   {
@@ -382,8 +382,8 @@
     "title": "The Interpretation of Dreams",
     "author": "Sigmund Freud",
     "year": "1900",
-    "category": "Vitenskap",
-    "description": "Historisk psykoanalyse, ikke moderne evidens.",
+    "category": "Science & knowledge",
+    "description": "A historically influential psychoanalytic work, not a guide to current scientific evidence.",
     "edition": ""
   },
   {
@@ -391,8 +391,8 @@
     "title": "Fear and Trembling",
     "author": "Søren Kierkegaard",
     "year": "1843",
-    "category": "Filosofi",
-    "description": "Tro og etiske paradokser.",
+    "category": "Philosophy",
+    "description": "An exploration of faith and ethical paradoxes.",
     "edition": ""
   },
   {
@@ -400,8 +400,8 @@
     "title": "The World as Will and Representation",
     "author": "Arthur Schopenhauer",
     "year": "1818",
-    "category": "Filosofi",
-    "description": "Vilje og lidelse.",
+    "category": "Philosophy",
+    "description": "A philosophical system centered on will, suffering and representation.",
     "edition": ""
   },
   {
@@ -409,8 +409,8 @@
     "title": "Critique of Pure Reason",
     "author": "Immanuel Kant",
     "year": "1781",
-    "category": "Vitenskap",
-    "description": "Erkjennelsens grenser.",
+    "category": "Science & knowledge",
+    "description": "A challenging inquiry into the limits and conditions of knowledge.",
     "edition": ""
   },
   {
@@ -418,8 +418,8 @@
     "title": "The Origins of Totalitarianism",
     "author": "Hannah Arendt",
     "year": "1951",
-    "category": "Samfunn",
-    "description": "Totalitære systemers opprinnelse.",
+    "category": "Politics & society",
+    "description": "A historical and political analysis of the origins of totalitarian rule.",
     "edition": ""
   }
 ]
