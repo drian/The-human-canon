@@ -1,0 +1,425 @@
+[
+  {
+    "id": 1,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year": "ca. 700 f.Kr.",
+    "category": "Litteratur",
+    "description": "Eventyr, identitet og hjemlengsel.",
+    "edition": "Emily Wilson (2017)"
+  },
+  {
+    "id": 2,
+    "title": "The Iliad",
+    "author": "Homer",
+    "year": "ca. 750 f.Kr.",
+    "category": "Litteratur",
+    "description": "Krig, ære og dødelighet.",
+    "edition": "Emily Wilson (2023)"
+  },
+  {
+    "id": 3,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": "ca. 170",
+    "category": "Filosofi",
+    "description": "Stoisk refleksjon om et godt liv.",
+    "edition": "Gregory Hays"
+  },
+  {
+    "id": 4,
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "year": "1532",
+    "category": "Samfunn",
+    "description": "Maktens praktiske mekanismer.",
+    "edition": ""
+  },
+  {
+    "id": 5,
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "year": "1942",
+    "category": "Romaner",
+    "description": "Fremmedgjøring og absurditet.",
+    "edition": ""
+  },
+  {
+    "id": 6,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": "1945",
+    "category": "Romaner",
+    "description": "Makt og revolusjon.",
+    "edition": ""
+  },
+  {
+    "id": 7,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": "1949",
+    "category": "Romaner",
+    "description": "Overvåkning og kontroll.",
+    "edition": ""
+  },
+  {
+    "id": 8,
+    "title": "Candide",
+    "author": "Voltaire",
+    "year": "1759",
+    "category": "Romaner",
+    "description": "Satire over filosofisk optimisme.",
+    "edition": ""
+  },
+  {
+    "id": 9,
+    "title": "Epic of Gilgamesh",
+    "author": "Unknown",
+    "year": "ca. 1200 f.Kr.",
+    "category": "Litteratur",
+    "description": "Vennskap og dødelighet.",
+    "edition": "Andrew George"
+  },
+  {
+    "id": 10,
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "year": "ca. 500 f.Kr.",
+    "category": "Samfunn",
+    "description": "Strategi og konflikt.",
+    "edition": ""
+  },
+  {
+    "id": 11,
+    "title": "Tao Te Ching",
+    "author": "Laozi",
+    "year": "ca. 400 f.Kr.",
+    "category": "Filosofi",
+    "description": "Enkelhet og naturlighet.",
+    "edition": ""
+  },
+  {
+    "id": 12,
+    "title": "Man's Search for Meaning",
+    "author": "Viktor Frankl",
+    "year": "1946",
+    "category": "Romaner",
+    "description": "Mening under ekstreme forhold.",
+    "edition": ""
+  },
+  {
+    "id": 13,
+    "title": "On Liberty",
+    "author": "John Stuart Mill",
+    "year": "1859",
+    "category": "Samfunn",
+    "description": "Individuell frihet og skadeprinsippet.",
+    "edition": ""
+  },
+  {
+    "id": 14,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": "1932",
+    "category": "Romaner",
+    "description": "Kontroll gjennom komfort.",
+    "edition": ""
+  },
+  {
+    "id": 15,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": "1890",
+    "category": "Romaner",
+    "description": "Skjønnhet og moral.",
+    "edition": ""
+  },
+  {
+    "id": 16,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": "1818",
+    "category": "Litteratur",
+    "description": "Skaperansvar og ensomhet.",
+    "edition": ""
+  },
+  {
+    "id": 17,
+    "title": "Notes from Underground",
+    "author": "Fyodor Dostoevsky",
+    "year": "1864",
+    "category": "Romaner",
+    "description": "Selvbedrag og irrasjonalitet.",
+    "edition": ""
+  },
+  {
+    "id": 18,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": "1866",
+    "category": "Romaner",
+    "description": "Skyld og moralsk ansvar.",
+    "edition": ""
+  },
+  {
+    "id": 19,
+    "title": "The Myth of Sisyphus",
+    "author": "Albert Camus",
+    "year": "1942",
+    "category": "Filosofi",
+    "description": "Det absurde og mening.",
+    "edition": ""
+  },
+  {
+    "id": 20,
+    "title": "The Republic",
+    "author": "Plato",
+    "year": "ca. 375 f.Kr.",
+    "category": "Filosofi",
+    "description": "Rettferdighet og staten.",
+    "edition": ""
+  },
+  {
+    "id": 21,
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "year": "ca. 350 f.Kr.",
+    "category": "Filosofi",
+    "description": "Dyd og menneskelig blomstring.",
+    "edition": ""
+  },
+  {
+    "id": 22,
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "year": "1886",
+    "category": "Filosofi",
+    "description": "Kritikk av etablerte moralske sannheter.",
+    "edition": ""
+  },
+  {
+    "id": 23,
+    "title": "On the Genealogy of Morality",
+    "author": "Friedrich Nietzsche",
+    "year": "1887",
+    "category": "Filosofi",
+    "description": "Moralens historiske utvikling.",
+    "edition": ""
+  },
+  {
+    "id": 24,
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": "1883–1885",
+    "category": "Filosofi",
+    "description": "Selvoverskridelse og verdier.",
+    "edition": ""
+  },
+  {
+    "id": 25,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year": "1880",
+    "category": "Romaner",
+    "description": "Tro, frihet og ansvar.",
+    "edition": ""
+  },
+  {
+    "id": 26,
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "year": "19 f.Kr.",
+    "category": "Litteratur",
+    "description": "Plikt og Romas mytiske opphav.",
+    "edition": ""
+  },
+  {
+    "id": 27,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "year": "ca. 1600",
+    "category": "Litteratur",
+    "description": "Tvil og hevn.",
+    "edition": ""
+  },
+  {
+    "id": 28,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "year": "1321",
+    "category": "Litteratur",
+    "description": "Moral og middelalderens kosmologi.",
+    "edition": ""
+  },
+  {
+    "id": 29,
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "year": "1667",
+    "category": "Litteratur",
+    "description": "Fri vilje og opprør.",
+    "edition": ""
+  },
+  {
+    "id": 30,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year": "1605–1615",
+    "category": "Litteratur",
+    "description": "Idealer og virkelighet.",
+    "edition": ""
+  },
+  {
+    "id": 31,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "year": "1844–1846",
+    "category": "Litteratur",
+    "description": "Hevn og rettferdighet.",
+    "edition": ""
+  },
+  {
+    "id": 32,
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "year": "1925",
+    "category": "Romaner",
+    "description": "Byråkrati og maktesløshet.",
+    "edition": ""
+  },
+  {
+    "id": 33,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": "1869",
+    "category": "Litteratur",
+    "description": "Historie og menneskelig handlekraft.",
+    "edition": ""
+  },
+  {
+    "id": 34,
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "year": "1808–1832",
+    "category": "Litteratur",
+    "description": "Kunnskap og ambisjon.",
+    "edition": ""
+  },
+  {
+    "id": 35,
+    "title": "Meditations on First Philosophy",
+    "author": "René Descartes",
+    "year": "1641",
+    "category": "Vitenskap",
+    "description": "Tvil og sikker kunnskap.",
+    "edition": ""
+  },
+  {
+    "id": 36,
+    "title": "An Enquiry Concerning Human Understanding",
+    "author": "David Hume",
+    "year": "1748",
+    "category": "Vitenskap",
+    "description": "Erfaring og årsakssammenheng.",
+    "edition": ""
+  },
+  {
+    "id": 37,
+    "title": "The Social Contract",
+    "author": "Jean-Jacques Rousseau",
+    "year": "1762",
+    "category": "Samfunn",
+    "description": "Legitim politisk autoritet.",
+    "edition": ""
+  },
+  {
+    "id": 38,
+    "title": "Leviathan",
+    "author": "Thomas Hobbes",
+    "year": "1651",
+    "category": "Samfunn",
+    "description": "Statens opphav og sikkerhet.",
+    "edition": ""
+  },
+  {
+    "id": 39,
+    "title": "The Communist Manifesto",
+    "author": "Karl Marx and Friedrich Engels",
+    "year": "1848",
+    "category": "Samfunn",
+    "description": "Klassekamp og kapitalisme.",
+    "edition": ""
+  },
+  {
+    "id": 40,
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "year": "1776",
+    "category": "Samfunn",
+    "description": "Markeder og arbeidsdeling.",
+    "edition": ""
+  },
+  {
+    "id": 41,
+    "title": "On the Origin of Species",
+    "author": "Charles Darwin",
+    "year": "1859",
+    "category": "Vitenskap",
+    "description": "Evolusjon gjennom naturlig seleksjon.",
+    "edition": ""
+  },
+  {
+    "id": 42,
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas Kuhn",
+    "year": "1962",
+    "category": "Vitenskap",
+    "description": "Paradigmer og vitenskapelige endringer.",
+    "edition": ""
+  },
+  {
+    "id": 43,
+    "title": "The Interpretation of Dreams",
+    "author": "Sigmund Freud",
+    "year": "1900",
+    "category": "Vitenskap",
+    "description": "Historisk psykoanalyse, ikke moderne evidens.",
+    "edition": ""
+  },
+  {
+    "id": 44,
+    "title": "Fear and Trembling",
+    "author": "Søren Kierkegaard",
+    "year": "1843",
+    "category": "Filosofi",
+    "description": "Tro og etiske paradokser.",
+    "edition": ""
+  },
+  {
+    "id": 45,
+    "title": "The World as Will and Representation",
+    "author": "Arthur Schopenhauer",
+    "year": "1818",
+    "category": "Filosofi",
+    "description": "Vilje og lidelse.",
+    "edition": ""
+  },
+  {
+    "id": 46,
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "year": "1781",
+    "category": "Vitenskap",
+    "description": "Erkjennelsens grenser.",
+    "edition": ""
+  },
+  {
+    "id": 47,
+    "title": "The Origins of Totalitarianism",
+    "author": "Hannah Arendt",
+    "year": "1951",
+    "category": "Samfunn",
+    "description": "Totalitære systemers opprinnelse.",
+    "edition": ""
+  }
+]
